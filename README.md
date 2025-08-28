@@ -30,7 +30,7 @@ A full-stack **Ticket Booking Platform** that allows users to browse and book se
 - Express.js
 - MongoDB (Mongoose ODM)
 - JWT Authentication
-- Razorpay SDK
+- Razorpay SDK (Stripe)
 
 ---
 
